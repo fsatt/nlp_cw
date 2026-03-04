@@ -1,2 +1,14 @@
 # .venv
-.venv/
+.venv*/
+
+# pycache
+__pycache__/
+
+# data files
+*.csv
+*.tsv
+dont_patronize_me.py
+
+# model files
+saved_model/
+saved_model.zip
